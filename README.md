@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
           
@@ -108,7 +109,7 @@ ul ul.drop li:hover{
         <ul>
             <li><a href="#">HOME</a></li>
             <li>
-                <a href="#">FURNITURE</a>
+                <a href="kunj alpha 1.html">FURNITURE</a>
                 <ul class="drop">
                     <li>SOFA</li>
                     <li>TV UNIT</li>
@@ -148,18 +149,3 @@ ul ul.drop li:hover{
         
     </body>
 </html>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Alpha/kunj Alpha.html at main · KUNJDIYORA/Alpha
