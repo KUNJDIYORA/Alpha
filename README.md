@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@KUNJDIYORA 
-KUNJDIYORA
-/
-Alpha
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Alpha/kunj Alpha.html
-@KUNJDIYORA
-KUNJDIYORA Add files via upload
-Latest commit ff57665 5 minutes ago
- History
- 1 contributor
-151 lines (130 sloc)  2.69 KB
-
-<!DOCTYPE html>
 <html>
     <head>
           
