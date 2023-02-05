@@ -1,6 +1,5 @@
-# Alpha
 <!DOCTYPE html>
-
+<html>
 <head>
 
 <title></title>
@@ -18,4 +17,4 @@ img{padding-left: 500px;}
 <p> This WebPage is about Lord Krishna </p>
 
 </body>
-</html
+</html>
