@@ -118,7 +118,7 @@ ul ul.drop li:hover{
             <li>
                 <a href="#">INTERIOR</a>
             <ul class="drop">
-                <li>WALLPAPER</li>
+                <li>WALL</li>
             </ul>
             
             </li>
