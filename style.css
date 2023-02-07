@@ -1,0 +1,35 @@
+img{
+    padding-left: 35%;
+}
+
+ul{
+    font-size: larger;
+    color: cornflowerblue;
+}
+
+
+
+ul li{
+    padding-left: 40%;
+    font-size: larger;
+    list-style: none;
+    color: burlywood;
+}
+
+ul p{
+    color: brown;
+}
+
+.life{
+    text-align: center;
+    color: cadetblue;
+}
+
+.one{
+    list-style-type: decimal;
+    color: white;
+}
+
+.audio1{
+    padding-left: 40%;
+}
