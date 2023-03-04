@@ -1,0 +1,16 @@
+ul{
+    color: aqua;
+    padding-left: 110px;
+    text-align: left;
+    font-size: 1cm;
+    border: 1px;
+}
+
+.img2{
+    padding-left: 50px;
+}
+
+ul:hover{
+    
+    color: violet;
+}
